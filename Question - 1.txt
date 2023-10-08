@@ -1,0 +1,5 @@
+Question – 1: What do you understand By Database
+Ans  -> Database is a collection of raw data which stores the individual data in meaningful fact.
+         ->     It is basically a shared collection of interrelated data tables which are designed from varied                     information from organisation.
+         ->     On the other hand DBMS is a collection of programmes that  enables users for creating,               manipulating, updating, deleting various entries in database.
+
